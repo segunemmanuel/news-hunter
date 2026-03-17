@@ -1,0 +1,27 @@
+node_modules/
+
+# Model checkpoints
+checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Logs & runs
+logs/
+runs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
+
+.env.example
+dist/
